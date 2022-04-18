@@ -1,0 +1,1 @@
+python bagoftricks.py --dataset=prid --arch=resnet50ta --cl-centers --use-OSMCAA
